@@ -20,7 +20,7 @@ public class EventsSender {
 
     private static final String CLIENT_ID = "942056848.1698860528";
     private static final String USD_RATE = "usd_rate";
-    private static final String EVENT_NAME = "usd_rate_update1";
+    private static final String EVENT_NAME = "usd_rate_update";
 
     private final ObjectMapper objectMapper;
 
